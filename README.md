@@ -1,4 +1,4 @@
-# Pattern-Recognition-Lab
+# <font color=red>**Pattern-Recognition-Lab**</font>
 
 Code for the PR lab course DTU
 
