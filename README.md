@@ -1,6 +1,6 @@
 # Pattern Recognition Lab
 
-Code for the PR lab course DTU
+Code for the PR lab course of DTU
 
 ### Lab 0:
 ***
@@ -14,8 +14,11 @@ Code for the PR lab course DTU
 1. [Nearest Neighbour Classifier](Lab%201/Nearest%20Neighbour%20Classifier.ipynb)
 2. [k-Nearest Neighbour Classifier](Lab%201/k-Nearest%20Neighbour%20Classifier.ipynb)
 
+### Lab 2:
+***
+1. [Image Histogram](Lab%202/Histogram.ipynb)
+
 ## To Do:
-- Histogram
 - PCA
 - kMeans
 - NaiveBayes
